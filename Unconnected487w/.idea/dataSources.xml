@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="BoolDB@adversary.gg" uuid="0a99aa5b-9eb8-46a9-93ea-06dc13ca3b8b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://adversary.gg:3306/BoolDB</jdbc-url>
+    </data-source>
+  </component>
+</project>

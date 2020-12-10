@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33c4ad54-93c1-4797-9900-493558315114" name="Default Changelist" comment="New HOme page">
+      <change beforePath="$PROJECT_DIR$/ADOBEXD.xd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Another Base Page/Manager_Analytic_Pagefixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Another Base Page/d479b3ff3mcdow-jpg-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Another Base Page/d479b3ff3mcdow-jpg-mobile@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Another Base Page/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Another Base Page/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Customer Comments/Comment card/Customer_Comment_Card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Customer Comments/ManagerCustomeerCommentViewer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Customer Comments/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Customer Comments/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Calendar/Employee_Calendarfixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Calendar/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Calendar/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/Employee_Home_Screenfixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/d479b3ff3mcdow-jpg-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/d479b3ff3mcdow-jpg-mobile@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/sddefault.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Profile/sddefault@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Schedule Requests/Employee_Schedule_Requestsfixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Schedule Requests/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Employee Schedule Requests/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/HomePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/homePage_Bootstrap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/mcdowells-coming-to-america-fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/mcdowells-coming-to-america-fa@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Main/mcdowells-coming-to-america-fat-sals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/DTjHXvwVQAUcSzN_large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/DTjHXvwVQAUcSzN_large@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/Manager Profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/d479b3ff3mcdow-jpg-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/d479b3ff3mcdow-jpg-mobile@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Profile/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Scheduling/Popups/1st_Attempt_Employee_Change_Schedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Scheduling/Popups/Approve_Time_Off_Validation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Scheduling/manager makes schedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Scheduling/mcdowells--home-of-the-big-mic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/Manager Scheduling/mcdowells--home-of-the-big-mic@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/authenticationService.svc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/homeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/loginController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/loginService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/registerController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADOBEXD/userService.svc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/InsertRow/employeeInsert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/customer_cardSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/employeesSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/invoiceSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/loginSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/scheduleSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/storeSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/SelectTable/store_employeesSelectTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Unfinished/customer_cardDeleteRow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Unfinished/employeesDeleteRow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Unfinished/invoiceDeleteRow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Unfinished/loginDeleteRow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/Unfinished/storeDeleteRow.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/connect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Employee_Calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Employee_Change_Schedule.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Employee_Home_Screen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Employee_Schedule_Requests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Main_Screen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Manager_Analytic_Page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Manager_Home_Screen.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Manager_Scheduling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oldHTML/Managers_Customer_Comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jX96ogzYj0TOfmFA3OUjFj1KUs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prototype2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\conno\WebstormProjects\Unconnected487w\testing shite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\conno\WebstormProjects\Unconnected487w\ADOBEXD\Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Second go.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Unconnected487w/ADOBEXD/Main/Second go.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="homePage_Bootstrap.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Unconnected487w/ADOBEXD/Main/homePage_Bootstrap.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Unconnected487w/testing shite/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.Second go.html" />
+        <item itemvalue="JavaScript Debug.homePage_Bootstrap.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33c4ad54-93c1-4797-9900-493558315114" name="Default Changelist" comment="" />
+      <created>1603939396971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603939396971</updated>
+      <workItem from="1603939397991" duration="2850000" />
+      <workItem from="1604000895253" duration="10466000" />
+      <workItem from="1604263340952" duration="14817000" />
+      <workItem from="1604279831815" duration="559000" />
+      <workItem from="1604289146895" duration="18812000" />
+      <workItem from="1605485098499" duration="1943000" />
+      <workItem from="1607203144568" duration="3356000" />
+      <workItem from="1607368710168" duration="8319000" />
+      <workItem from="1607466945019" duration="22460000" />
+      <workItem from="1607531192741" duration="22870000" />
+      <workItem from="1607555438416" duration="1003000" />
+      <workItem from="1607570142939" duration="1181000" />
+    </task>
+    <task id="LOCAL-00001" summary="New HOme page">
+      <created>1604270395830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604270395830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New HOme page">
+      <created>1604270676041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604270676041</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New HOme page" />
+    <option name="LAST_COMMIT_MESSAGE" value="New HOme page" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Deployment" timestamp="1604271567367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604271567367" />
+    <state x="552" y="161" key="#Plugins" timestamp="1607550333888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607550333888" />
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607374534734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607374534734" />
+    <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607482886633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607482886633" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1604334906194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604334906194" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607547528281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607547528281" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1607554042541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607554042541" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604270659988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604270659988" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604270679678">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="394" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.141.1920.1040@-1920.141.1920.1040" timestamp="1604270402305" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604270679678" />
+    <state x="816" y="419" key="WebDeployment.AddServerDialog.v.1" timestamp="1604271442486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="419" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604271442486" />
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604342676977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604342676977" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604271579787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1143" y="575" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.141.1920.1040@-1920.141.1920.1040" timestamp="1604270378547" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604271579787" />
+    <state x="266" y="212" width="1618" height="1027" key="dock-window-1" timestamp="1607535388385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-967" y="247" width="974" height="941" key="dock-window-1/0.0.1920.1040/-1920.141.1920.1040@-1920.141.1920.1040" timestamp="1604266959390" />
+    <state x="266" y="212" width="1618" height="1027" key="dock-window-1/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607535388385" />
+    <state x="613" y="174" width="1618" height="1027" key="dock-window-2" timestamp="1607548244599">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="174" width="1618" height="1027" key="dock-window-2/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607548244599" />
+    <state x="-1728" y="141" width="1618" height="1027" maximized="true" key="dock-window-3" timestamp="1607558913116">
+      <screen x="-1920" y="141" width="1920" height="1040" />
+    </state>
+    <state x="-1728" y="141" width="1618" height="1027" maximized="true" key="dock-window-3/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607558913116" />
+    <state x="830" y="412" key="publish.login" timestamp="1604289162547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="412" key="publish.login/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1604289162547" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1607490273255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607490273255" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1607550300206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="366" key="search.everywhere.popup/0.0.1920.1040/-1920.141.1920.1040@-1920.141.1920.1040" timestamp="1604269862381" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.141.1920.1040@0.0.1920.1040" timestamp="1607550300206" />
+  </component>
+</project>
